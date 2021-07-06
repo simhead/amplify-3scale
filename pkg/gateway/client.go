@@ -11,7 +11,7 @@ import (
 	"github.com/Axway/agent-sdk/pkg/util/log"
 
 	// CHANGE_HERE - Change the import path(s) below to reference packages correctly
-	"github.com/someorg/samples/apic_discovery_agent/pkg/config"
+	"github.com/simhead/amplify-3scale/pkg/config"
 )
 
 // GatewayClient - Represents the Gateway client
