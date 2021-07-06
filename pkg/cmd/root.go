@@ -5,8 +5,8 @@ import (
 	corecfg "github.com/Axway/agent-sdk/pkg/config"
 
 	// CHANGE_HERE - Change the import path(s) below to reference packages correctly
-	"github.com/someorg/samples/3scale_apic_discovery_agent/pkg/config"
-	"github.com/someorg/samples/3scale_apic_discovery_agent/pkg/gateway"
+	"github.com/simhead/amplify-3scale/pkg/config"
+	"github.com/simhead/amplify-3scale/pkg/gateway"
 )
 
 // RootCmd - Agent root command
